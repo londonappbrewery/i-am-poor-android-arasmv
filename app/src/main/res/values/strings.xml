@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="title">I support coal!</string>
+    <string name="black_coal">Black coal</string>
 </resources>
